@@ -1,0 +1,4 @@
+{
+    "themes": ["Science Fiction", "Mythology", "Game of Chance", "Board Games", "Cooking", "Museum", "Olympic Games", "Sustainability", "Superheroes", "Traveling"],
+    "concepts": ["Arithmetic Operators", "Dictionaries", "Classes and Objects", "File Handling and I/O", "Lists", "Loops", "Selection Statements (if/else, etc.)", "Strings", "Variables", "Exception Handling"]
+}

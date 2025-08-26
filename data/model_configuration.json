@@ -1,0 +1,34 @@
+{
+    "expert":{
+        "model":"gpt-4o-2024-08-06", 
+        "temperature":1.0,
+        "quantity":1
+    },
+    "judge":{
+        "model":"gpt-4o-2024-08-06", 
+        "temperature":1.0,
+        "quantity":1
+    },
+    "tutor_testsuite":{
+        "model":"gpt-4o-2024-08-06", 
+        "temperature":1.0,
+        "quantity":1,
+        "pass_threshold":100.0,
+        "coverage_threshold":100.0
+    },
+    "tutor":{
+        "model":"gpt-4o-2024-08-06", 
+        "temperature":1.0,
+        "quantity":1,
+        "pass_threshold":100.0,
+        "coverage_threshold":100.0
+    },
+    "student":{
+        "model":"gpt-4o-mini-2024-07-18",
+        "temperature":1.0,
+        "quantity":20,
+        "pass_threshold":100.0,
+        "coverage_threshold":100.0,
+        "population_passing_threshold":50.0
+    }
+}
