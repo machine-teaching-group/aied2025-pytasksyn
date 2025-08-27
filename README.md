@@ -57,7 +57,7 @@ If you use this code or methodology in your research, please cite our paper:
                   Sebastian Tschiatschek and
                   Adish Singla},
   title        = {{Synthesizing High-Quality Programming Tasks with LLM-Based Expert and Student Agents}},
-  booktitle    = {Proceedings of the International Conference of Artificial Intelligence in Education (AIED)},
+  booktitle    = {Proceedings of the International Conference on Artificial Intelligence in Education (AIED)},
   series       = {Lecture Notes in Computer Science},
   pages        = {77--91},
   publisher    = {Springer},
