@@ -50,14 +50,17 @@ python -m code.user_study_app_performance
 If you use this code or methodology in your research, please cite our paper:
 
 ```bibtex
-@InProceedings{Nguyen2025PyTaskSyn,
-    author="Nguyen, Manh Hung and P{\u{a}}durean, Victor-Alexandru and Gotovos, Alkis and Tschiatschek, Sebastian and Singla, Adish",
-    editor="Cristea, Alexandra I. and Walker, Erin and Lu, Yu and Santos, Olga C. and Isotani, Seiji",
-    title="Synthesizing High-Quality Programming Tasks with LLM-Based Expert and Student Agents",
-    booktitle="Artificial Intelligence in Education",
-    year="2025",
-    publisher="Springer Nature Switzerland",
-    address="Cham",
-    pages="77--91"
+@inproceedings{Nguyen2025PyTaskSyn,
+  author       = {Manh Hung Nguyen and
+                  Victor{-}Alexandru Padurean and
+                  Alkis Gotovos and
+                  Sebastian Tschiatschek and
+                  Adish Singla},
+  title        = {{Synthesizing High-Quality Programming Tasks with LLM-Based Expert and Student Agents}},
+  booktitle    = {Proceedings of the International Conference of Artificial Intelligence in Education (AIED)},
+  series       = {Lecture Notes in Computer Science},
+  pages        = {77--91},
+  publisher    = {Springer},
+  year         = {2025}
 }
 ```
